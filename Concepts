@@ -1,0 +1,12 @@
+TF-IDF:(Term Frequency * Inverse Document Frequency)
+Term frequency: 
+- measures how ofter a word occurs in a document. A word that occurs frequently is probably important to that document's meaning.
+
+Document frequency: 
+- how often a word occurs in an entire set of documents
+
+Term Frequency / Document Frequency:
+- measure of the relevancy of a word to a document 
+
+
+
